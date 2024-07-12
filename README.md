@@ -2,10 +2,6 @@
 
 PyTorch implementation for 《Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV》
 
-## Network Architecture
-
-![](README.assets/network_arch.JPG)
-
 ## Effective Receptive Field
 
 ![](README.assets/erf.JPG)
@@ -24,6 +20,12 @@ The original dataset for MRI super-resolution and CT denoising are as follows:
 
 ![](README.assets/vis.JPG)
 
+## TODO
+
+- [ ] Restore-RWKV based on RWKV6
+- [ ] Release the arXiv version paper
+- [x] Restore-RWKV based on RWKV4
+
 ## Citation
 
 If you find Restore-RWKV useful in your research, please consider citing:
@@ -32,4 +34,3 @@ If you find Restore-RWKV useful in your research, please consider citing:
 Wait wait wait!
 ```
 
-# Restore-RWKV
