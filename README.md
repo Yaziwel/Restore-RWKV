@@ -29,7 +29,7 @@ The original dataset for MRI super-resolution and CT denoising are as follows:
 ## TODO
 
 - [ ] Restore-RWKV based on RWKV6
-- [ ] Release the arXiv version paper
+- [x] Release the arXiv version paper
 - [x] Restore-RWKV based on RWKV4
 
 ## Citation
@@ -37,7 +37,7 @@ The original dataset for MRI super-resolution and CT denoising are as follows:
 If you find Restore-RWKV useful in your research, please consider citing:
 
 ```bibtex
-@misc{yang2024restorerwkvefficienteffectivemedical,
+@misc{yang2024restorerwkv,
       title={Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV}, 
       author={Zhiwen Yang and Hui Zhang and Dan Zhao and Bingzheng Wei and Yan Xu},
       year={2024},
