@@ -33,7 +33,7 @@ If you find Restore-RWKV useful in your research, please consider citing:
 ```bibtex
 @misc{yang2024restorerwkv,
       title={Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV}, 
-      author={Zhiwen Yang and Hui Zhang and Dan Zhao and Bingzheng Wei and Yan Xu},
+      author={Zhiwen Yang and Jiayin Li and Hui Zhang and Dan Zhao and Bingzheng Wei and Yan Xu},
       year={2024},
       eprint={2407.11087},
       archivePrefix={arXiv},
