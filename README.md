@@ -2,19 +2,19 @@
 
 PyTorch implementation for 《Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV》[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087)
 
-**!!!** Check our paper collection of recent [Awesome-RWKV-in-Vision](https://github.com/Yaziwel/Awesome-RWKV-in-Vision)
+:rocket::rocket::rocket:Check our paper collection of recent **Awsome-RWKV-in-Vision** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-RWKV-in-Vision.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-RWKV-in-Vision)
 
 ## Network Architecture
 
-![](README.assets/framework.jpg)
-
-## Effective Receptive Field
-
-![](README.assets/erf.JPG)
+![](README.assets/framework.png)
 
 ## Visualization
 
-![](README.assets/vis.JPG)
+![](README.assets/PET_vis.png)
+
+![](README.assets/CT_vis.png)
+
+![](README.assets/MRI_vis.png)
 
 ## Dataset
 
@@ -25,12 +25,6 @@ The original dataset for MRI super-resolution and CT denoising are as follows:
 - MRI super-resolution: [IXI dataset](http://brain-development.org/ixi-dataset/)
 
 - CT denoising: [AAPM dataset](https://www.aapm.org/grandchallenge/lowdosect/)
-
-## TODO
-
-- [ ] Restore-RWKV based on RWKV6
-- [x] Release the arXiv version paper
-- [x] Restore-RWKV based on RWKV4
 
 ## Citation
 
