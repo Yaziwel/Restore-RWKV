@@ -18,7 +18,7 @@ PyTorch implementation for 《Restore-RWKV: Efficient and Effective Medical Imag
 
 ## Dataset
 
-You can download the preprocessed datasets for MRI image super-resolution, CT image denoising, and PET image synthesis from Baidu Netdisk [here](https://pan.baidu.com/s/1oBBG_Stcn7cfO8U49S146w?pwd=3x13 ).
+You can download the preprocessed datasets for MRI image super-resolution, CT image denoising, and PET image synthesis from [Baidu Netdisk](https://pan.baidu.com/s/1oBBG_Stcn7cfO8U49S146w?pwd=3x13) or [Google Drive](https://drive.google.com/drive/folders/12Qdkdms14Kfv3P60clyCURtnoFpLhFnX?usp=sharing).
 
 The original dataset for MRI super-resolution and CT denoising are as follows:
 
@@ -31,13 +31,12 @@ The original dataset for MRI super-resolution and CT denoising are as follows:
 If you find Restore-RWKV useful in your research, please consider citing:
 
 ```bibtex
-@misc{yang2024restorerwkv,
-      title={Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV}, 
-      author={Zhiwen Yang and Jiayin Li and Hui Zhang and Dan Zhao and Bingzheng Wei and Yan Xu},
-      year={2024},
-      eprint={2407.11087},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{yang2025restorerwkv,
+  title={Restore-rwkv: Efficient and effective medical image restoration with rwkv},
+  author={Yang, Zhiwen and Li, Jiayin and Zhang, Hui and Zhao, Dan and Wei, Bingzheng and Xu, Yan},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
