@@ -2,7 +2,9 @@
 
 PyTorch implementation for 《Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV》[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087)
 
-:rocket::rocket::rocket:Check our paper collection of recent **Awsome-RWKV-in-Vision** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-RWKV-in-Vision.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-RWKV-in-Vision)
+:rocket::rocket::rocket:Check our paper collection of recent **Awsome-RWKV-in-Vision** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-RWKV-in-Vision.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-RWKV-in-Vision) 
+
+:rocket::rocket::rocket:Check our paper collection of recent **Awsome-Medical-Image-Restoration** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-Medical-Image-Restoration.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-Medical-Image-Restoration)
 
 ## Network Architecture
 
@@ -31,11 +33,14 @@ The original dataset for MRI super-resolution and CT denoising are as follows:
 If you find Restore-RWKV useful in your research, please consider citing:
 
 ```bibtex
-@article{yang2025restorerwkv,
+@article{yang2026restorerwkv,
   title={Restore-rwkv: Efficient and effective medical image restoration with rwkv},
   author={Yang, Zhiwen and Li, Jiayin and Zhang, Hui and Zhao, Dan and Wei, Bingzheng and Xu, Yan},
   journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2025},
+  year={2026},
+  volume={30},
+  number={1},
+  pages={513-526},
   publisher={IEEE}
 }
 ```
